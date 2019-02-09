@@ -1,4 +1,4 @@
-//query_app.c
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <fcntl.h>
